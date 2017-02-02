@@ -1,0 +1,17 @@
+header {
+    background-color: #eebb44;
+    margin-bottom: 40px;
+}
+
+.box {
+    border: 1px solid #E5E5E5;
+    margin-bottom: 20px;
+}
+
+.box img {
+    width: 100%;
+}
+
+.character {
+    padding-left: 20px;
+}
